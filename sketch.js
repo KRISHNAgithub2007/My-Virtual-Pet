@@ -8,7 +8,7 @@ var count=20;
 function preload()
 {
   dogimg=loadImage("Images/Dog1.png");
-  happydogimg=loadImage("Images/dog2.png");
+  happydogimg=loadImage("Images/Dog2.png");
 }
 
 function setup() {
